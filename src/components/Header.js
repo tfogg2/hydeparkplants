@@ -43,7 +43,7 @@ class Header extends Component {
     return(
       <div className="header">
         <div className="right-nav">
-          <a href="https://www.instagram.com/austinitedtx/" target="_blank"><img className="insta" src={require('../assets/instagram-black.svg')} /></a>
+          <a href="https://www.instagram.com/hydeparkplants/" target="_blank"><img className="insta" src={require('../assets/instagram-black.svg')} /></a>
         </div>
       </div>
     )

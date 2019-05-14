@@ -17,9 +17,6 @@ class App extends Component {
           <Header />
           <Switch>
             <Route exact path="/" render={() => <Content />} />
-            <Route exact path="/parks" component={Parks} />
-            <Route path="/parks/" component={Park} />
-            <Route exact path="/cafes" component={Cafes} />
           </Switch>
         </div>
       </BrowserRouter>
