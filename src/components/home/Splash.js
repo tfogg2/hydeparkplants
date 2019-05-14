@@ -11,7 +11,7 @@ class Splash extends Component{
             <p><b>Hyde Park Plants</b>
                <br/>100% biodegradeable.
                <br/>Mother of Millions Plant.
-               <br/>Stay tuned and DM if interested.
+               <br/>Stay tuned - DM if interested.
             </p>
           </div>
         </div>
