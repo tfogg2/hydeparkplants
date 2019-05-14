@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="17px" viewBox="0 0 78 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>close-btn-full</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Menu-button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="close-btn-full" transform="translate(-1.000000, 0.000000)" fill="#424242">
+            <g id="Group-2" transform="translate(62.564103, 0.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" transform="translate(8.382643, 8.529412) rotate(-45.000000) translate(-8.382643, -8.529412) " x="-2.01183432" y="7.37104072" width="20.7889546" height="2.31674208" rx="1.15837104"></rect>
+                <rect id="Rectangle" transform="translate(8.382643, 8.529412) rotate(45.000000) translate(-8.382643, -8.529412) " x="-2.01183432" y="7.37104072" width="20.7889546" height="2.31674208" rx="1.15837104"></rect>
+            </g>
+            <text id="CLOSE" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-0.3456789">
+                <tspan x="0.852991821" y="13.9723183">CLOSE</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

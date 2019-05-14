@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="15px" viewBox="0 0 80 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>menu-btn-full</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Menu-button" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="menu-btn-full" fill="#424242">
+            <g id="Group" transform="translate(50.000000, 0.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" x="8" y="0" width="22" height="3" rx="1.5"></rect>
+                <rect id="Rectangle" x="0" y="6" width="30" height="3" rx="1.5"></rect>
+                <rect id="Rectangle" x="14" y="12" width="16" height="3" rx="1.5"></rect>
+            </g>
+            <text id="MENU" font-family="Arial-BoldMT, Arial" font-size="14" font-weight="bold" letter-spacing="-0.3456789">
+                <tspan x="0.0810062375" y="13">MENU</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

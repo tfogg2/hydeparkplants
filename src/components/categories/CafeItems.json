@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Flightpath Coffee House",
+    "category": "Cafes",
+    "description": " ...... ",
+    "handle":"flight",
+    "address": "411 E 43rd St, Austin, TX 78751",
+    "address_link": "https://www.google.com/maps/place/Flightpath+Coffeehouse/@30.3137736,-97.7220636,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca6d2d485ad3:0x939786ac3a886d0f!8m2!3d30.313769!4d-97.7198749"
+  },
+  {
+    "id": 2,
+    "title": "Quack's Bakery",
+    "category": "Cafes",
+    "description": "Ness.",
+    "handle":"quacks",
+    "address": "411 E 43rd St, Austin, TX 78751",
+    "address_link": "https://www.google.com/maps/place/Quack's+43rd+Street+Bakery/@30.304645,-97.7265834,15z/data=!4m5!3m4!1s0x0:0x3e0558783ef8b48b!8m2!3d30.304645!4d-97.7265834"
+  }
+]

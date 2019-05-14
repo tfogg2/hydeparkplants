@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Spyglass",
+    "category": "Parks",
+    "description": "Spyglass in the greenbelt.",
+    "handle":"zilker"
+  },
+  {
+    "id": 2,
+    "title": "Spyglass",
+    "category": "Parks",
+    "description": "Spyglass in the greenbelt.",
+    "handle":"bang"
+  },
+  {
+    "id": 3,
+    "title": "Quack's Bakery",
+    "category": "Cafes",
+    "description": "Dank.",
+    "handle":"quacks"
+  },
+  {
+    "id": 4,
+    "title": "Quack's Bakery",
+    "category": "Cafes",
+    "description": "Dank.",
+    "handle":"quacks"
+  }
+]
