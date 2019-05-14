@@ -10,8 +10,8 @@ class Splash extends Component{
           <div className="splash-copy">
             <p><b>Hyde Park Plants</b>
                <br/>100% biodegradeable.
-               <br/>Mother of Millions Plant.
-               <br/>Stay tuned - DM if interested.
+               <br/>Mother of Millions succulent.
+               <br/>Stay tuned & DM if interested.
             </p>
           </div>
         </div>
