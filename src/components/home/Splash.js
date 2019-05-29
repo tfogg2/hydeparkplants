@@ -10,7 +10,7 @@ class Splash extends Component{
           <div className="splash-copy">
             <p><b>Hyde Park Plants</b>
                <br/>Now offering the Mother of Millions succulent from Madagascar in a 100% biodegradeable planter.
-               <br/><br/>One for $10 and two for $15. We're able to deliver anywhere in Austin, TX.
+               <br/><br/>One for $6 and two for $10. We're able to deliver anywhere in Austin, TX.
                <br/><br/>We accept Cash, Venmo or Apple Pay. DM if interested.
             </p>
           </div>
